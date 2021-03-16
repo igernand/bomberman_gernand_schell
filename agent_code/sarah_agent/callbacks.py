@@ -26,10 +26,19 @@ def setup(self):
         self.logger.info("Setting up model from scratch.")
         weights = np.random.rand(len(ACTIONS))
         self.model = weights / weights.sum()
+        
+        self.logger.info("Setting up q-table from scratch.")
+        #weights = np.random.rand(len(ACTIONS))
+        self.qtable = np.zeros((17, 17, 4))
+        
     else:
         self.logger.info("Loading model from saved state.")
         with open("my-saved-model.pt", "rb") as file:
             self.model = pickle.load(file)
+            
+        self.logger.info("Loading q-table from saved state.")
+        with open("my-saved-qtable.pt", "rb") as file:
+            self.qtable = pickle.load(file)
 
 
 def act(self, game_state: dict) -> str:
