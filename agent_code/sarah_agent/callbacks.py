@@ -60,9 +60,9 @@ def act(self, game_state: dict) -> str:
     
     self.logger.debug("Querying model for action.")
     
-    
+    ### TODO: take values from q-table and transform to probabilities -> argmax
+    # return action with highest probability
     return np.random.choice(ACTIONS, p=self.model)
-    ### TODO: return action with highest probability
 
 
 def state_to_features(game_state: dict) -> np.array:

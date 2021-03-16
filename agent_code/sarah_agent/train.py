@@ -1,5 +1,6 @@
 import pickle
 import random
+import numpy as np
 from collections import namedtuple, deque
 from typing import List
 
@@ -13,6 +14,8 @@ Transition = namedtuple('Transition',
 # Hyper parameters -- DO modify
 TRANSITION_HISTORY_SIZE = 3  # keep only ... last transitions
 RECORD_ENEMY_TRANSITIONS = 1.0  # record enemy transitions with probability ...
+GAMMA = 0.9
+ALPHA = 0.9
 
 # Events
 PLACEHOLDER_EVENT = "PLACEHOLDER"
@@ -57,11 +60,33 @@ def game_events_occurred(self, old_game_state: dict, self_action: str, new_game_
     # state_to_features is defined in callbacks.py
     self.transitions.append(Transition(state_to_features(old_game_state), self_action, state_to_features(new_game_state), reward_from_events(self, events)))
     
+     #ACTIONS = ['UP', 'RIGHT', 'DOWN', 'LEFT']
+    if self_action == "UP":
+        self_action = 0
+    elif self_action == "RIGHT":
+        self_action = 1
+    elif self_action == "DOWN":
+        self_action = 2
+    elif self_action == "LEFT":
+        self_action = 3
+        
+    # get own new position
+    _, score, bombs_left, (x, y) = new_game_state["self"]
     
-    ### TODO: compute temporal difference
     
-    ### TODO: update q-value 
-    self.qtable[0][0][0] = self.qtable[0][0][0] - 1 # test
+    if new_game_state["step"] != 1:
+        # get old q-value for old position
+        _, score_old, bombs_left_old, (x_old, y_old) = old_game_state["self"]
+        old_q_value = self.qtable[x_old][y_old][self_action]
+        
+        # compute temporal difference
+        temp_diff = reward_from_events(self, events) + GAMMA * np.max(self.qtable[(x, y)]) - old_q_value
+        
+            
+        # update q-value 
+        new_q_value = old_q_value + (ALPHA * temp_diff)
+        self.qtable[x_old][y_old][self_action] = new_q_value
+
 
 def end_of_round(self, last_game_state: dict, last_action: str, events: List[str]):
     """
@@ -96,7 +121,6 @@ def reward_from_events(self, events: List[str]) -> int:
     """
     game_rewards = {
         e.COIN_COLLECTED: 1,
-        # move ein bisschen schlechter -1
         e.KILLED_OPPONENT: 5,
         PLACEHOLDER_EVENT: -.1,  # idea: the custom event is bad
         # idea: end game as fast as possible
