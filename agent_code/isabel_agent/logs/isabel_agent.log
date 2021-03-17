@@ -1,0 +1,225 @@
+2021-03-17 16:53:14,698 [isabel_agent_wrapper] DEBUG: Calling setup on callback.
+2021-03-17 16:53:14,698 [isabel_agent_code] INFO: Setting up model from scratch.
+2021-03-17 16:53:14,698 [isabel_agent_code] INFO: Setting up q-table from scratch.
+2021-03-17 16:53:14,698 [isabel_agent_wrapper] DEBUG: Got result from callback#setup in 0.000s.
+2021-03-17 16:53:14,699 [isabel_agent_wrapper] DEBUG: Calling setup_training on callback.
+2021-03-17 16:53:14,699 [isabel_agent_wrapper] DEBUG: Got result from callback#setup_training in 0.000s.
+2021-03-17 16:53:14,800 [isabel_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-17 16:53:14,800 [isabel_agent_code] DEBUG: Encountered game event(s)  in step 1
+2021-03-17 16:53:14,801 [isabel_agent_code] INFO: Awarded -0.1 for events PLACEHOLDER
+2021-03-17 16:53:14,801 [isabel_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-17 16:53:14,802 [isabel_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-17 16:53:14,802 [isabel_agent_code] DEBUG: Choosing action purely at random.
+2021-03-17 16:53:14,802 [isabel_agent_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-17 16:53:14,901 [isabel_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-17 16:53:14,901 [isabel_agent_code] DEBUG: Encountered game event(s) 'MOVED_RIGHT' in step 2
+2021-03-17 16:53:14,902 [isabel_agent_code] INFO: Awarded -1.1 for events MOVED_RIGHT, PLACEHOLDER
+2021-03-17 16:53:14,902 [isabel_agent_code] INFO: Awarded -1.1 for events MOVED_RIGHT, PLACEHOLDER
+2021-03-17 16:53:14,903 [isabel_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.002s.
+2021-03-17 16:53:14,904 [isabel_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-17 16:53:14,904 [isabel_agent_code] DEBUG: Querying model for action.
+2021-03-17 16:53:14,905 [isabel_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-17 16:53:15,003 [isabel_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-17 16:53:15,003 [isabel_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 3
+2021-03-17 16:53:15,004 [isabel_agent_code] INFO: Awarded -1000.1 for events INVALID_ACTION, PLACEHOLDER
+2021-03-17 16:53:15,004 [isabel_agent_code] INFO: Awarded -1000.1 for events INVALID_ACTION, PLACEHOLDER
+2021-03-17 16:53:15,004 [isabel_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-17 16:53:15,004 [isabel_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-17 16:53:15,004 [isabel_agent_code] DEBUG: Querying model for action.
+2021-03-17 16:53:15,005 [isabel_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-17 16:53:15,104 [isabel_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-17 16:53:15,104 [isabel_agent_code] DEBUG: Encountered game event(s) 'MOVED_RIGHT' in step 4
+2021-03-17 16:53:15,104 [isabel_agent_code] INFO: Awarded -1.1 for events MOVED_RIGHT, PLACEHOLDER
+2021-03-17 16:53:15,104 [isabel_agent_code] INFO: Awarded -1.1 for events MOVED_RIGHT, PLACEHOLDER
+2021-03-17 16:53:15,104 [isabel_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.000s.
+2021-03-17 16:53:15,105 [isabel_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-17 16:53:15,105 [isabel_agent_code] DEBUG: Querying model for action.
+2021-03-17 16:53:15,105 [isabel_agent_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-17 16:53:15,205 [isabel_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-17 16:53:15,205 [isabel_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 5
+2021-03-17 16:53:15,206 [isabel_agent_code] INFO: Awarded -1000.1 for events INVALID_ACTION, PLACEHOLDER
+2021-03-17 16:53:15,206 [isabel_agent_code] INFO: Awarded -1000.1 for events INVALID_ACTION, PLACEHOLDER
+2021-03-17 16:53:15,206 [isabel_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-17 16:53:15,206 [isabel_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-17 16:53:15,212 [isabel_agent_code] DEBUG: Querying model for action.
+2021-03-17 16:53:15,212 [isabel_agent_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-17 16:53:15,306 [isabel_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-17 16:53:15,306 [isabel_agent_code] DEBUG: Encountered game event(s) 'MOVED_RIGHT' in step 6
+2021-03-17 16:53:15,307 [isabel_agent_code] INFO: Awarded -1.1 for events MOVED_RIGHT, PLACEHOLDER
+2021-03-17 16:53:15,307 [isabel_agent_code] INFO: Awarded -1.1 for events MOVED_RIGHT, PLACEHOLDER
+2021-03-17 16:53:15,307 [isabel_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-17 16:53:15,308 [isabel_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-17 16:53:15,308 [isabel_agent_code] DEBUG: Querying model for action.
+2021-03-17 16:53:15,308 [isabel_agent_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-17 16:53:15,406 [isabel_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-17 16:53:15,406 [isabel_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 7
+2021-03-17 16:53:15,407 [isabel_agent_code] INFO: Awarded -1000.1 for events INVALID_ACTION, PLACEHOLDER
+2021-03-17 16:53:15,407 [isabel_agent_code] INFO: Awarded -1000.1 for events INVALID_ACTION, PLACEHOLDER
+2021-03-17 16:53:15,407 [isabel_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-17 16:53:15,408 [isabel_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-17 16:53:15,408 [isabel_agent_code] DEBUG: Querying model for action.
+2021-03-17 16:53:15,408 [isabel_agent_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-17 16:53:15,506 [isabel_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-17 16:53:15,506 [isabel_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 8
+2021-03-17 16:53:15,507 [isabel_agent_code] INFO: Awarded -1000.1 for events INVALID_ACTION, PLACEHOLDER
+2021-03-17 16:53:15,507 [isabel_agent_code] INFO: Awarded -1000.1 for events INVALID_ACTION, PLACEHOLDER
+2021-03-17 16:53:15,507 [isabel_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-17 16:53:15,507 [isabel_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-17 16:53:15,507 [isabel_agent_code] DEBUG: Querying model for action.
+2021-03-17 16:53:15,507 [isabel_agent_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-17 16:53:15,607 [isabel_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-17 16:53:15,608 [isabel_agent_code] DEBUG: Encountered game event(s) 'MOVED_LEFT' in step 9
+2021-03-17 16:53:15,608 [isabel_agent_code] INFO: Awarded -1.1 for events MOVED_LEFT, PLACEHOLDER
+2021-03-17 16:53:15,608 [isabel_agent_code] INFO: Awarded -1.1 for events MOVED_LEFT, PLACEHOLDER
+2021-03-17 16:53:15,608 [isabel_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-17 16:53:15,609 [isabel_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-17 16:53:15,609 [isabel_agent_code] DEBUG: Querying model for action.
+2021-03-17 16:53:15,609 [isabel_agent_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-17 16:53:15,709 [isabel_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-17 16:53:15,709 [isabel_agent_code] DEBUG: Encountered game event(s) 'MOVED_LEFT' in step 10
+2021-03-17 16:53:15,710 [isabel_agent_code] INFO: Awarded -1.1 for events MOVED_LEFT, PLACEHOLDER
+2021-03-17 16:53:15,710 [isabel_agent_code] INFO: Awarded -1.1 for events MOVED_LEFT, PLACEHOLDER
+2021-03-17 16:53:15,710 [isabel_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-17 16:53:15,710 [isabel_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-17 16:53:15,710 [isabel_agent_code] DEBUG: Choosing action purely at random.
+2021-03-17 16:53:15,710 [isabel_agent_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-17 16:53:15,810 [isabel_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-17 16:53:15,811 [isabel_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 11
+2021-03-17 16:53:15,811 [isabel_agent_code] INFO: Awarded -1000.1 for events INVALID_ACTION, PLACEHOLDER
+2021-03-17 16:53:15,811 [isabel_agent_code] INFO: Awarded -1000.1 for events INVALID_ACTION, PLACEHOLDER
+2021-03-17 16:53:15,811 [isabel_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-17 16:53:15,812 [isabel_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-17 16:53:15,812 [isabel_agent_code] DEBUG: Querying model for action.
+2021-03-17 16:53:15,812 [isabel_agent_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-17 16:53:15,912 [isabel_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-17 16:53:15,913 [isabel_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 12
+2021-03-17 16:53:15,913 [isabel_agent_code] INFO: Awarded -1000.1 for events INVALID_ACTION, PLACEHOLDER
+2021-03-17 16:53:15,913 [isabel_agent_code] INFO: Awarded -1000.1 for events INVALID_ACTION, PLACEHOLDER
+2021-03-17 16:53:15,913 [isabel_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.000s.
+2021-03-17 16:53:15,914 [isabel_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-17 16:53:15,914 [isabel_agent_code] DEBUG: Querying model for action.
+2021-03-17 16:53:15,914 [isabel_agent_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-17 16:53:16,013 [isabel_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-17 16:53:16,013 [isabel_agent_code] DEBUG: Encountered game event(s) 'MOVED_LEFT' in step 13
+2021-03-17 16:53:16,013 [isabel_agent_code] INFO: Awarded -1.1 for events MOVED_LEFT, PLACEHOLDER
+2021-03-17 16:53:16,013 [isabel_agent_code] INFO: Awarded -1.1 for events MOVED_LEFT, PLACEHOLDER
+2021-03-17 16:53:16,013 [isabel_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.000s.
+2021-03-17 16:53:16,014 [isabel_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-17 16:53:16,014 [isabel_agent_code] DEBUG: Querying model for action.
+2021-03-17 16:53:16,014 [isabel_agent_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-17 16:53:16,114 [isabel_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-17 16:53:16,114 [isabel_agent_code] DEBUG: Encountered game event(s) 'MOVED_DOWN' in step 14
+2021-03-17 16:53:16,115 [isabel_agent_code] INFO: Awarded -1.1 for events MOVED_DOWN, PLACEHOLDER
+2021-03-17 16:53:16,115 [isabel_agent_code] INFO: Awarded -1.1 for events MOVED_DOWN, PLACEHOLDER
+2021-03-17 16:53:16,115 [isabel_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-17 16:53:16,115 [isabel_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-17 16:53:16,116 [isabel_agent_code] DEBUG: Querying model for action.
+2021-03-17 16:53:16,116 [isabel_agent_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-17 16:53:16,215 [isabel_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-17 16:53:16,215 [isabel_agent_code] DEBUG: Encountered game event(s) 'MOVED_UP' in step 15
+2021-03-17 16:53:16,216 [isabel_agent_code] INFO: Awarded -1.1 for events MOVED_UP, PLACEHOLDER
+2021-03-17 16:53:16,216 [isabel_agent_code] INFO: Awarded -1.1 for events MOVED_UP, PLACEHOLDER
+2021-03-17 16:53:16,216 [isabel_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-17 16:53:16,217 [isabel_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-17 16:53:16,217 [isabel_agent_code] DEBUG: Querying model for action.
+2021-03-17 16:53:16,217 [isabel_agent_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-17 16:53:16,315 [isabel_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-17 16:53:16,316 [isabel_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 16
+2021-03-17 16:53:16,316 [isabel_agent_code] INFO: Awarded -1000.1 for events INVALID_ACTION, PLACEHOLDER
+2021-03-17 16:53:16,316 [isabel_agent_code] INFO: Awarded -1000.1 for events INVALID_ACTION, PLACEHOLDER
+2021-03-17 16:53:16,316 [isabel_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.000s.
+2021-03-17 16:53:16,317 [isabel_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-17 16:53:16,317 [isabel_agent_code] DEBUG: Querying model for action.
+2021-03-17 16:53:16,317 [isabel_agent_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-17 16:53:16,415 [isabel_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-17 16:53:16,415 [isabel_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 17
+2021-03-17 16:53:16,416 [isabel_agent_code] INFO: Awarded -1000.1 for events INVALID_ACTION, PLACEHOLDER
+2021-03-17 16:53:16,416 [isabel_agent_code] INFO: Awarded -1000.1 for events INVALID_ACTION, PLACEHOLDER
+2021-03-17 16:53:16,416 [isabel_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-17 16:53:16,416 [isabel_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-17 16:53:16,417 [isabel_agent_code] DEBUG: Querying model for action.
+2021-03-17 16:53:16,417 [isabel_agent_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-17 16:53:16,521 [isabel_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-17 16:53:16,521 [isabel_agent_code] DEBUG: Encountered game event(s) 'MOVED_DOWN' in step 18
+2021-03-17 16:53:16,521 [isabel_agent_code] INFO: Awarded -1.1 for events MOVED_DOWN, PLACEHOLDER
+2021-03-17 16:53:16,521 [isabel_agent_code] INFO: Awarded -1.1 for events MOVED_DOWN, PLACEHOLDER
+2021-03-17 16:53:16,521 [isabel_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.000s.
+2021-03-17 16:53:16,522 [isabel_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-17 16:53:16,522 [isabel_agent_code] DEBUG: Choosing action purely at random.
+2021-03-17 16:53:16,522 [isabel_agent_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-17 16:53:16,621 [isabel_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-17 16:53:16,622 [isabel_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 19
+2021-03-17 16:53:16,622 [isabel_agent_code] INFO: Awarded -1000.1 for events INVALID_ACTION, PLACEHOLDER
+2021-03-17 16:53:16,623 [isabel_agent_code] INFO: Awarded -1000.1 for events INVALID_ACTION, PLACEHOLDER
+2021-03-17 16:53:16,623 [isabel_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-17 16:53:16,623 [isabel_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-17 16:53:16,624 [isabel_agent_code] DEBUG: Choosing action purely at random.
+2021-03-17 16:53:16,624 [isabel_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-17 16:53:16,724 [isabel_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-17 16:53:16,724 [isabel_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 20
+2021-03-17 16:53:16,724 [isabel_agent_code] INFO: Awarded -1000.1 for events INVALID_ACTION, PLACEHOLDER
+2021-03-17 16:53:16,724 [isabel_agent_code] INFO: Awarded -1000.1 for events INVALID_ACTION, PLACEHOLDER
+2021-03-17 16:53:16,724 [isabel_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.000s.
+2021-03-17 16:53:16,725 [isabel_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-17 16:53:16,725 [isabel_agent_code] DEBUG: Querying model for action.
+2021-03-17 16:53:16,725 [isabel_agent_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-17 16:53:16,824 [isabel_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-17 16:53:16,824 [isabel_agent_code] DEBUG: Encountered game event(s) 'MOVED_DOWN' in step 21
+2021-03-17 16:53:16,825 [isabel_agent_code] INFO: Awarded -1.1 for events MOVED_DOWN, PLACEHOLDER
+2021-03-17 16:53:16,825 [isabel_agent_code] INFO: Awarded -1.1 for events MOVED_DOWN, PLACEHOLDER
+2021-03-17 16:53:16,825 [isabel_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-17 16:53:16,826 [isabel_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-17 16:53:16,826 [isabel_agent_code] DEBUG: Querying model for action.
+2021-03-17 16:53:16,826 [isabel_agent_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-17 16:53:16,925 [isabel_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-17 16:53:16,925 [isabel_agent_code] DEBUG: Encountered game event(s) 'MOVED_DOWN' in step 22
+2021-03-17 16:53:16,926 [isabel_agent_code] INFO: Awarded -1.1 for events MOVED_DOWN, PLACEHOLDER
+2021-03-17 16:53:16,926 [isabel_agent_code] INFO: Awarded -1.1 for events MOVED_DOWN, PLACEHOLDER
+2021-03-17 16:53:16,926 [isabel_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-17 16:53:16,927 [isabel_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-17 16:53:16,927 [isabel_agent_code] DEBUG: Querying model for action.
+2021-03-17 16:53:16,927 [isabel_agent_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-17 16:53:17,033 [isabel_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-17 16:53:17,033 [isabel_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 23
+2021-03-17 16:53:17,033 [isabel_agent_code] INFO: Awarded -1000.1 for events INVALID_ACTION, PLACEHOLDER
+2021-03-17 16:53:17,033 [isabel_agent_code] INFO: Awarded -1000.1 for events INVALID_ACTION, PLACEHOLDER
+2021-03-17 16:53:17,033 [isabel_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.000s.
+2021-03-17 16:53:17,034 [isabel_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-17 16:53:17,034 [isabel_agent_code] DEBUG: Querying model for action.
+2021-03-17 16:53:17,034 [isabel_agent_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-17 16:53:17,133 [isabel_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-17 16:53:17,133 [isabel_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 24
+2021-03-17 16:53:17,134 [isabel_agent_code] INFO: Awarded -1000.1 for events INVALID_ACTION, PLACEHOLDER
+2021-03-17 16:53:17,134 [isabel_agent_code] INFO: Awarded -1000.1 for events INVALID_ACTION, PLACEHOLDER
+2021-03-17 16:53:17,134 [isabel_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-17 16:53:17,134 [isabel_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-17 16:53:17,135 [isabel_agent_code] DEBUG: Querying model for action.
+2021-03-17 16:53:17,135 [isabel_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-17 16:53:17,252 [isabel_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-17 16:53:17,252 [isabel_agent_code] DEBUG: Encountered game event(s) 'MOVED_DOWN' in step 25
+2021-03-17 16:53:17,252 [isabel_agent_code] INFO: Awarded -1.1 for events MOVED_DOWN, PLACEHOLDER
+2021-03-17 16:53:17,252 [isabel_agent_code] INFO: Awarded -1.1 for events MOVED_DOWN, PLACEHOLDER
+2021-03-17 16:53:17,253 [isabel_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-17 16:53:17,253 [isabel_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-17 16:53:17,253 [isabel_agent_code] DEBUG: Choosing action purely at random.
+2021-03-17 16:53:17,253 [isabel_agent_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-17 16:53:17,336 [isabel_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-17 16:53:17,336 [isabel_agent_code] DEBUG: Encountered game event(s) 'MOVED_DOWN' in step 26
+2021-03-17 16:53:17,337 [isabel_agent_code] INFO: Awarded -1.1 for events MOVED_DOWN, PLACEHOLDER
+2021-03-17 16:53:17,337 [isabel_agent_code] INFO: Awarded -1.1 for events MOVED_DOWN, PLACEHOLDER
+2021-03-17 16:53:17,337 [isabel_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-17 16:53:17,337 [isabel_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-17 16:53:17,338 [isabel_agent_code] DEBUG: Querying model for action.
+2021-03-17 16:53:17,338 [isabel_agent_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-17 16:53:17,619 [isabel_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-17 16:53:17,619 [isabel_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 27
+2021-03-17 16:53:17,620 [isabel_agent_code] INFO: Awarded -1000.1 for events INVALID_ACTION, PLACEHOLDER
+2021-03-17 16:53:17,620 [isabel_agent_code] INFO: Awarded -1000.1 for events INVALID_ACTION, PLACEHOLDER
+2021-03-17 16:53:17,620 [isabel_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-17 16:53:17,620 [isabel_agent_wrapper] DEBUG: Calling end_of_round on callback.
+2021-03-17 16:53:17,621 [isabel_agent_code] DEBUG: Encountered event(s) 'INVALID_ACTION', 'PLACEHOLDER', 'SURVIVED_ROUND' in final step
+2021-03-17 16:53:17,621 [isabel_agent_code] INFO: Awarded -1000.1 for events INVALID_ACTION, PLACEHOLDER, SURVIVED_ROUND
+2021-03-17 16:53:17,621 [isabel_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-17 16:53:17,621 [isabel_agent_code] DEBUG: Querying model for action.
+2021-03-17 16:53:17,622 [isabel_agent_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-17 16:53:17,625 [isabel_agent_wrapper] DEBUG: Got result from callback#end_of_round in 0.004s.
