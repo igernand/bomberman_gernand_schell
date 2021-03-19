@@ -42,7 +42,7 @@ def setup(self):
             
     # ÜBERHAUPT LADEN? ODER LOKAL ANLEGEN?
     if not os.path.isfile("my-saved-qtable.pt"):
-        self.qtable = np.zeros((29, 29, 6))
+        self.qtable = np.zeros((15, 15, 6))
     
     else:
         with open("my-saved-bigqtable.pt", "rb") as file:
@@ -69,7 +69,7 @@ def act(self, game_state: dict) -> str:
     #open cratetable, cointable1, cointable2, bombtable, explosiontable
     #qtable = np.zeros((17, 17, 6))
     #
-    #coins = game_state["coins"]
+    coins = game_state["coins"]
     #crates = ?
     #bombs = ?
     #explosions = ?
@@ -77,12 +77,13 @@ def act(self, game_state: dict) -> str:
     for coin in coins:
         x, y = coin
         if x%2==1 and y%2==1: #cointable1: MOMENTAN bigqtable (TODO)
-                # TODO: oder x und y vertauschen?
-                self.qtable = bigqtable[(14-y):(29-y), (14-x):(29-x)]
-        elif x%2==0 and y%2==1:
-            p = 2
-        elif x%2==1 and y%2==0:
-            p = 3
+            # TODO: oder x und y vertauschen?
+            self.qtable = self.bigqtable[(15-x):(30-x), (15-y):(30-y)]
+        # TODO richtigen Ausschnitt finden
+        #elif x%2==0 and y%2==1:
+        #    self.qtable = coin2table[(14-x):(29-x), (14-y):(29-y)]
+        #elif x%2==1 and y%2==0:
+        #    self.qtable = coin3table[(14-x):(29-x), (14-y):(29-y)]
         
             
         
@@ -98,17 +99,18 @@ def act(self, game_state: dict) -> str:
     # todo Exploration vs exploitation
     random_prob = .7
     _, score, bombs_left, (x_self, y_self) = game_state["self"]
+    #TODO train mode unnecessary
     if self.train and random.random() < random_prob:
         self.logger.debug("Choosing action purely at random.")
         # 80%: walk in any direction. 10% wait. 10% bomb.
         #return np.random.choice(ACTIONS, p=[.2, .2, .2, .2, .1, .1])
-        return np.random.choice(ACTIONS, p=[.25, .25, .25, .25])
+        return np.random.choice(ACTIONS, p=[.25, .25, .25, .25,.0,.0])
     
     self.logger.debug("Querying model for action.")
     ### TODO: take values from q-table and transform to probabilities -> argmax
     # return action with highest probability
     #return np.random.choice(ACTIONS, p=self.model)
-    return ACTIONS[np.argmax(self.qtable[x_self,y_self])]
+    return ACTIONS[np.argmax(self.qtable[(x_self-1),(y_self-1)][0:4])]
 
 
 def state_to_features(game_state: dict) -> np.array:
