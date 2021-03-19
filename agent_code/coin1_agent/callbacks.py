@@ -48,12 +48,14 @@ def setup(self):
             self.qtable = pickle.load(file)
             
     #bigqtable
-    if not os.path.isfile("my-saved-bigqtable.pt"):
-        self.bigqtable = np.zeros((29, 29, 6))
+    bigtable_on = 1
+    if(bigtable_on==1):
+        if not os.path.isfile("my-saved-bigqtable.pt"):
+            self.bigqtable = np.zeros((29, 29, 6))
     
-    else:
-        with open("my-saved-bigqtable.pt", "rb") as file:
-            self.bigqtable = pickle.load(file)
+        else:
+            with open("my-saved-bigqtable.pt", "rb") as file:
+                self.bigqtable = pickle.load(file)
 
 
 def act(self, game_state: dict) -> str:

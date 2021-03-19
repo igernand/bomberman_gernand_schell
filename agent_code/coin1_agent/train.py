@@ -16,6 +16,7 @@ TRANSITION_HISTORY_SIZE = 3  # keep only ... last transitions
 RECORD_ENEMY_TRANSITIONS = 1.0  # record enemy transitions with probability ...
 GAMMA = 0.9
 ALPHA = 0.9
+bigtable_on = 1
 
 # Events
 PLACEHOLDER_EVENT = "PLACEHOLDER"
@@ -111,10 +112,11 @@ def end_of_round(self, last_game_state: dict, last_action: str, events: List[str
     with open("my-saved-qtable.pt", "wb") as file:
         pickle.dump(self.qtable, file)
     
-    self.bigqtable = build_big_qtable(self.qtable[1:16,1:16])
+    if(bigtable_on == 1):
+        self.bigqtable = build_big_qtable(self.qtable[1:16,1:16])
     
-    with open("my-saved-bigqtable.pt", "wb") as file:
-        pickle.dump(self.bigqtable, file)
+        with open("my-saved-bigqtable.pt", "wb") as file:
+            pickle.dump(self.bigqtable, file)
         
     
 
@@ -155,9 +157,10 @@ def build_big_qtable(small_qtable):
     # initialize big q table
     big_qtable = np.zeros((29,29,6))
     # copy small q table in bottom right corner
-    big_qtable[14:29, 14:29] = small_qtable
+    big_qtable[14:29, 14:29, :] = small_qtable
     # flip and change right <-> left for botton left corner
-    big_qtable[14:29, 0:14] = np.fliplr(small_qtable)[0:15,0:14, np.array([0,3,2,1,4,5])]
+    flip = np.fliplr(small_qtable)
+    big_qtable[14:29, 0:14, :] = flip[0:15, 0:14, [0,3,2,1,4,5]]
     # flip and change up <-> down for upper half
-    big_qtable[0:14, 0:29] = np.flipud(big_qtable[14:29, 0:29])[0:14, 0:29, np.array([2,1,0,3,4,5])]
+    big_qtable[0:14, 0:29, :] = np.flipud(big_qtable[14:29, 0:29])[0:14, 0:29, [2,1,0,3,4,5]]
     return big_qtable
