@@ -67,7 +67,7 @@ def act(self, game_state: dict) -> str:
     """
  
     # todo Exploration vs exploitation
-    random_prob = .7
+    random_prob = 0.7
     _, score, bombs_left, (x_self, y_self) = game_state["self"]
     if self.train and random.random() < random_prob:
         self.logger.debug("Choosing action purely at random.")

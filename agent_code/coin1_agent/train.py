@@ -80,7 +80,7 @@ def game_events_occurred(self, old_game_state: dict, self_action: str, new_game_
         old_q_value = self.qtable[x_old][y_old][self_action]
         
         # compute temporal difference
-        temp_diff = reward_from_events(self, events) + GAMMA * np.max(self.qtable[(x, y)]) - old_q_value
+        temp_diff = reward_from_events(self, events) + GAMMA * np.max(self.qtable[(x, y)][0:4]) - old_q_value
         
             
         # update q-value 
