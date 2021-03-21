@@ -340,7 +340,7 @@ class BombeRLeWorld(GenericWorld):
 
         # Distribute coins evenly
         self.coins = []
-        """coin_pattern = np.array([
+        '''coin_pattern = np.array([
             [1, 1, 1],
             [0, 0, 1],
         ])
@@ -350,8 +350,29 @@ class BombeRLeWorld(GenericWorld):
                 for j in range(coin_pattern.shape[1]):
                     if coin_pattern[i, j] == 1:
                         self.coins.append(Coin((x + i, x + j), self.arena[x+i,x+j] == 0))
-                        coins[x + i, x + j] += 1
-        for i in range(3):
+                        coins[x + i, x + j] += 1'''
+        if self.arena[1,1] == 0:
+            self.coins.append(Coin((2, 1)))
+            self.coins[-1].collectable = True
+        '''if self.arena[9,9] == 0:
+            self.coins.append(Coin((6, 5)))
+            self.coins[-1].collectable = True
+        if self.arena[5,5] == 0:
+            self.coins.append(Coin((10, 11)))
+            self.coins[-1].collectable = True
+        if self.arena[11,3] == 0:
+            self.coins.append(Coin((7, 9)))
+            self.coins[-1].collectable = True
+        if self.arena[7,9] == 0:
+            self.coins.append(Coin((3, 3)))
+            self.coins[-1].collectable = True
+        if self.arena[1,11] == 0:
+            self.coins.append(Coin((9, 4)))
+            self.coins[-1].collectable = True
+        if self.arena[13,1] == 0:
+            self.coins.append(Coin((7, 8)))
+            self.coins[-1].collectable = True'''
+        '''for i in range(3):
             for j in range(3):
                 n_crates = (self.arena[1 + 5 * i:6 + 5 * i, 1 + 5 * j:6 + 5 * j] == 1).sum()
                 while True:
@@ -362,26 +383,20 @@ class BombeRLeWorld(GenericWorld):
                         break
                     elif self.arena[x, y] == 1:
                         self.coins.append(Coin((x, y)))
-                        break"""
-        # new code
-        self.coins.append(Coin((3, 3)))
-        self.coins[-1].collectable = True
-        
-        self.coins.append(Coin((15, 15)))
-        self.coins[-1].collectable = True
-        
-        self.coins.append(Coin((7, 7)))
-        self.coins[-1].collectable = True
-        
-        self.coins.append(Coin((3, 13)))
-        self.coins[-1].collectable = True
-        
-        
+                        break'''
+
         # Reset agents and distribute starting positions
         for agent in self.agents:
             agent.start_round()
             self.active_agents.append(agent)
-            agent.x, agent.y = start_positions.pop()
+            #random.shuffle(start_positions)
+            #agent.x, agent.y = start_positions.pop()
+            #agent.x, agent.y = (13,3)
+            agent.x, agent.y = (2,2)
+            while agent.x%2==0 and agent.y%2==0:
+                agent.x = random.randint(1, 15)
+                agent.y = random.randint(1, 15)
+            #print(agent.x,agent.y)
 
         self.replay = {
             'round': self.round,
