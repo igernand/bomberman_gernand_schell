@@ -1,0 +1,70 @@
+2021-03-24 17:21:28,713 [master_agent_wrapper] DEBUG: Calling setup on callback.
+2021-03-24 17:21:28,713 [master_agent_code] INFO: Loading coin1-table from saved state.
+2021-03-24 17:21:28,713 [master_agent_code] INFO: Loading coin2-table from saved state.
+2021-03-24 17:21:28,714 [master_agent_code] INFO: Loading coin3-table from saved state.
+2021-03-24 17:21:28,714 [master_agent_code] INFO: Loading crate1-table from saved state.
+2021-03-24 17:21:28,714 [master_agent_code] INFO: Loading crate2-table from saved state.
+2021-03-24 17:21:28,714 [master_agent_code] INFO: Loading crate3-table from saved state.
+2021-03-24 17:21:28,715 [master_agent_code] INFO: Loading bombtable from saved state.
+2021-03-24 17:21:28,715 [master_agent_code] INFO: Loading explosiontable from saved state.
+2021-03-24 17:21:28,715 [master_agent_code] INFO: Loading bomb2table from saved state.
+2021-03-24 17:21:28,715 [master_agent_code] INFO: Loading explosion2table from saved state.
+2021-03-24 17:21:28,715 [master_agent_code] INFO: Loading bomb3table from saved state.
+2021-03-24 17:21:28,716 [master_agent_code] INFO: Loading explosion3table from saved state.
+2021-03-24 17:21:28,716 [master_agent_wrapper] DEBUG: Got result from callback#setup in 0.003s.
+2021-03-24 17:21:28,819 [master_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-24 17:21:28,819 [master_agent_code] DEBUG: Querying model for action.
+2021-03-24 17:21:28,819 [master_agent_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-24 17:21:28,920 [master_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-24 17:21:28,921 [master_agent_code] DEBUG: Querying model for action.
+2021-03-24 17:21:28,921 [master_agent_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-24 17:21:29,022 [master_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-24 17:21:29,022 [master_agent_code] DEBUG: Querying model for action.
+2021-03-24 17:21:29,022 [master_agent_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-24 17:21:29,121 [master_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-24 17:21:29,122 [master_agent_code] DEBUG: Querying model for action.
+2021-03-24 17:21:29,122 [master_agent_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-24 17:21:29,223 [master_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-24 17:21:29,224 [master_agent_code] DEBUG: Querying model for action.
+2021-03-24 17:21:29,224 [master_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-24 17:21:29,325 [master_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-24 17:21:29,326 [master_agent_code] DEBUG: Querying model for action.
+2021-03-24 17:21:29,326 [master_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-24 17:21:29,425 [master_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-24 17:21:29,426 [master_agent_code] DEBUG: Querying model for action.
+2021-03-24 17:21:29,426 [master_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-24 17:21:29,531 [master_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-24 17:21:29,532 [master_agent_code] DEBUG: Querying model for action.
+2021-03-24 17:21:29,532 [master_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-24 17:21:29,632 [master_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-24 17:21:29,633 [master_agent_code] DEBUG: Querying model for action.
+2021-03-24 17:21:29,633 [master_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-24 17:21:29,733 [master_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-24 17:21:29,734 [master_agent_code] DEBUG: Querying model for action.
+2021-03-24 17:21:29,734 [master_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-24 17:21:29,833 [master_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-24 17:21:29,834 [master_agent_code] DEBUG: Querying model for action.
+2021-03-24 17:21:29,834 [master_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-24 17:21:29,934 [master_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-24 17:21:29,935 [master_agent_code] DEBUG: Querying model for action.
+2021-03-24 17:21:29,935 [master_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-24 17:21:30,040 [master_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-24 17:21:30,041 [master_agent_code] DEBUG: Querying model for action.
+2021-03-24 17:21:30,041 [master_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-24 17:21:30,140 [master_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-24 17:21:30,141 [master_agent_code] DEBUG: Querying model for action.
+2021-03-24 17:21:30,141 [master_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-24 17:21:30,241 [master_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-24 17:21:30,242 [master_agent_code] DEBUG: Querying model for action.
+2021-03-24 17:21:30,242 [master_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-24 17:21:30,341 [master_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-24 17:21:30,342 [master_agent_code] DEBUG: Querying model for action.
+2021-03-24 17:21:30,342 [master_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-24 17:21:30,443 [master_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-24 17:21:30,444 [master_agent_code] DEBUG: Querying model for action.
+2021-03-24 17:21:30,444 [master_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-24 17:21:30,544 [master_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-24 17:21:30,545 [master_agent_code] DEBUG: Querying model for action.
+2021-03-24 17:21:30,545 [master_agent_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-24 17:21:30,645 [master_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-24 17:21:30,646 [master_agent_wrapper] ERROR: An exception occurred while calling act: operands could not be broadcast together with shapes (13,11,6) (12,11,6) 
