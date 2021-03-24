@@ -1,0 +1,51 @@
+2021-03-23 13:09:20,239 [coin1_agent_wrapper] DEBUG: Calling setup on callback.
+2021-03-23 13:09:20,239 [coin1_agent_code] INFO: Loading q-table from saved state.
+2021-03-23 13:09:20,240 [coin1_agent_wrapper] DEBUG: Got result from callback#setup in 0.001s.
+2021-03-23 13:09:20,343 [coin1_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-23 13:09:20,343 [coin1_agent_code] DEBUG: Querying model for action.
+2021-03-23 13:09:20,343 [coin1_agent_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-23 13:09:20,444 [coin1_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-23 13:09:20,444 [coin1_agent_code] DEBUG: Querying model for action.
+2021-03-23 13:09:20,445 [coin1_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-23 13:09:20,545 [coin1_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-23 13:09:20,545 [coin1_agent_code] DEBUG: Querying model for action.
+2021-03-23 13:09:20,545 [coin1_agent_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-23 13:09:20,646 [coin1_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-23 13:09:20,646 [coin1_agent_code] DEBUG: Querying model for action.
+2021-03-23 13:09:20,646 [coin1_agent_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-23 13:09:20,748 [coin1_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-23 13:09:20,749 [coin1_agent_code] DEBUG: Querying model for action.
+2021-03-23 13:09:20,749 [coin1_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-23 13:09:20,849 [coin1_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-23 13:09:20,849 [coin1_agent_code] DEBUG: Querying model for action.
+2021-03-23 13:09:20,850 [coin1_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-23 13:09:20,950 [coin1_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-23 13:09:20,951 [coin1_agent_code] DEBUG: Querying model for action.
+2021-03-23 13:09:20,951 [coin1_agent_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-23 13:09:21,052 [coin1_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-23 13:09:21,052 [coin1_agent_code] DEBUG: Querying model for action.
+2021-03-23 13:09:21,052 [coin1_agent_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-23 13:09:21,152 [coin1_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-23 13:09:21,152 [coin1_agent_code] DEBUG: Querying model for action.
+2021-03-23 13:09:21,152 [coin1_agent_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-23 13:09:21,253 [coin1_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-23 13:09:21,253 [coin1_agent_code] DEBUG: Querying model for action.
+2021-03-23 13:09:21,253 [coin1_agent_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-23 13:09:21,354 [coin1_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-23 13:09:21,354 [coin1_agent_code] DEBUG: Querying model for action.
+2021-03-23 13:09:21,354 [coin1_agent_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-23 13:09:21,454 [coin1_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-23 13:09:21,454 [coin1_agent_code] DEBUG: Querying model for action.
+2021-03-23 13:09:21,454 [coin1_agent_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-23 13:09:21,555 [coin1_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-23 13:09:21,555 [coin1_agent_code] DEBUG: Querying model for action.
+2021-03-23 13:09:21,555 [coin1_agent_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-23 13:09:21,656 [coin1_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-23 13:09:21,656 [coin1_agent_code] DEBUG: Querying model for action.
+2021-03-23 13:09:21,657 [coin1_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-23 13:09:21,756 [coin1_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-23 13:09:21,756 [coin1_agent_code] DEBUG: Querying model for action.
+2021-03-23 13:09:21,756 [coin1_agent_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-23 13:09:21,876 [coin1_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-23 13:09:21,876 [coin1_agent_code] DEBUG: Querying model for action.
+2021-03-23 13:09:21,876 [coin1_agent_wrapper] DEBUG: Got result from callback#act in 0.000s.
