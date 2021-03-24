@@ -1,0 +1,47 @@
+2021-03-24 17:24:02,765 [explosion2_agent_wrapper] DEBUG: Calling setup on callback.
+2021-03-24 17:24:02,765 [explosion2_agent_wrapper] DEBUG: Got result from callback#setup in 0.000s.
+2021-03-24 17:24:02,765 [explosion2_agent_wrapper] DEBUG: Calling setup_training on callback.
+2021-03-24 17:24:02,765 [explosion2_agent_wrapper] DEBUG: Got result from callback#setup_training in 0.000s.
+2021-03-24 17:24:02,765 [explosion2_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-24 17:24:02,765 [explosion2_agent_code] DEBUG: Encountered game event(s)  in step 1
+2021-03-24 17:24:02,765 [explosion2_agent_code] INFO: Awarded 0 for events PLACEHOLDER
+2021-03-24 17:24:02,765 [explosion2_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.000s.
+2021-03-24 17:24:02,765 [explosion2_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-24 17:24:02,765 [explosion2_agent_code] DEBUG: Choosing action purely at random.
+2021-03-24 17:24:02,765 [explosion2_agent_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-24 17:24:02,765 [explosion2_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-24 17:24:02,765 [explosion2_agent_code] DEBUG: Encountered game event(s) 'MOVED_UP' in step 2
+2021-03-24 17:24:02,765 [explosion2_agent_code] INFO: Awarded -1 for events MOVED_UP, PLACEHOLDER
+2021-03-24 17:24:02,765 [explosion2_agent_code] INFO: Awarded -1 for events MOVED_UP, PLACEHOLDER
+2021-03-24 17:24:02,765 [explosion2_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.000s.
+2021-03-24 17:24:02,765 [explosion2_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-24 17:24:02,765 [explosion2_agent_code] DEBUG: Choosing action purely at random.
+2021-03-24 17:24:02,765 [explosion2_agent_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-24 17:24:02,765 [explosion2_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-24 17:24:02,765 [explosion2_agent_code] DEBUG: Encountered game event(s) 'MOVED_LEFT' in step 3
+2021-03-24 17:24:02,765 [explosion2_agent_code] INFO: Awarded -1 for events MOVED_LEFT, PLACEHOLDER
+2021-03-24 17:24:02,780 [explosion2_agent_code] INFO: Awarded -1 for events MOVED_LEFT, PLACEHOLDER
+2021-03-24 17:24:02,780 [explosion2_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.016s.
+2021-03-24 17:24:02,780 [explosion2_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-24 17:24:02,780 [explosion2_agent_code] DEBUG: Choosing action purely at random.
+2021-03-24 17:24:02,780 [explosion2_agent_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-24 17:24:02,780 [explosion2_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-24 17:24:02,780 [explosion2_agent_code] DEBUG: Encountered game event(s) 'MOVED_RIGHT' in step 4
+2021-03-24 17:24:02,780 [explosion2_agent_code] INFO: Awarded -1 for events MOVED_RIGHT, PLACEHOLDER
+2021-03-24 17:24:02,780 [explosion2_agent_code] INFO: Awarded -1 for events MOVED_RIGHT, PLACEHOLDER
+2021-03-24 17:24:02,780 [explosion2_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.000s.
+2021-03-24 17:24:02,780 [explosion2_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-24 17:24:02,780 [explosion2_agent_code] DEBUG: Choosing action purely at random.
+2021-03-24 17:24:02,780 [explosion2_agent_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-24 17:24:02,780 [explosion2_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-24 17:24:02,780 [explosion2_agent_code] DEBUG: Encountered game event(s) 'MOVED_RIGHT' in step 5
+2021-03-24 17:24:02,780 [explosion2_agent_code] INFO: Awarded -1 for events MOVED_RIGHT, PLACEHOLDER
+2021-03-24 17:24:02,780 [explosion2_agent_code] INFO: Awarded -1 for events MOVED_RIGHT, PLACEHOLDER
+2021-03-24 17:24:02,780 [explosion2_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.000s.
+2021-03-24 17:24:02,780 [explosion2_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-24 17:24:02,780 [explosion2_agent_code] DEBUG: Choosing action purely at random.
+2021-03-24 17:24:02,780 [explosion2_agent_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-24 17:24:02,780 [explosion2_agent_wrapper] DEBUG: Calling end_of_round on callback.
+2021-03-24 17:24:02,780 [explosion2_agent_code] DEBUG: Encountered event(s) 'INVALID_ACTION', 'SURVIVED_ROUND' in final step
+2021-03-24 17:24:02,780 [explosion2_agent_code] INFO: Awarded -1000 for events INVALID_ACTION, SURVIVED_ROUND
+2021-03-24 17:24:02,780 [explosion2_agent_wrapper] DEBUG: Got result from callback#end_of_round in 0.000s.
