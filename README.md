@@ -6,7 +6,7 @@ Reinforcement learning for Bomberman: Temporal Difference Q-learning with data a
 
 Note on the different agents:
 
-coin1_agent trains collecting the coin at position (1,1)
+coin1_agent trains collecting the coin at position (1,1)  
 coin2_agent trains collecting the coin at position (2,1) and indirectly at (1,2)
 crate_agent trains placing bombs next to crate at (1,1)
 crate2_agent trains placing bombs next to crate at (2,1) and indirectly at (1,2)
