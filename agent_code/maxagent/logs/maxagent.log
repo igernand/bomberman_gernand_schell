@@ -1,0 +1,40 @@
+2021-03-28 03:09:28,218 [maxagent_wrapper] DEBUG: Calling setup on callback.
+2021-03-28 03:09:28,220 [maxagent_code] INFO: Loading coin1-table from saved state.
+2021-03-28 03:09:28,221 [maxagent_code] INFO: Loading coin2-table from saved state.
+2021-03-28 03:09:28,222 [maxagent_code] INFO: Loading coin3-table from saved state.
+2021-03-28 03:09:28,223 [maxagent_code] INFO: Loading crate1-table from saved state.
+2021-03-28 03:09:28,224 [maxagent_code] INFO: Loading crate2-table from saved state.
+2021-03-28 03:09:28,224 [maxagent_code] INFO: Loading crate3-table from saved state.
+2021-03-28 03:09:28,224 [maxagent_code] INFO: Loading bombtable from saved state.
+2021-03-28 03:09:28,224 [maxagent_code] INFO: Loading explosiontable from saved state.
+2021-03-28 03:09:28,224 [maxagent_code] INFO: Loading bomb2table from saved state.
+2021-03-28 03:09:28,224 [maxagent_code] INFO: Loading explosion2table from saved state.
+2021-03-28 03:09:28,225 [maxagent_code] INFO: Loading bomb3table from saved state.
+2021-03-28 03:09:28,225 [maxagent_code] INFO: Loading explosion3table from saved state.
+2021-03-28 03:09:28,225 [maxagent_code] INFO: Loading walking1table from saved state.
+2021-03-28 03:09:28,225 [maxagent_code] INFO: Loading walking2table from saved state.
+2021-03-28 03:09:28,226 [maxagent_wrapper] DEBUG: Got result from callback#setup in 0.006s.
+2021-03-28 03:09:28,328 [maxagent_wrapper] DEBUG: Calling act on callback.
+2021-03-28 03:09:28,329 [maxagent_code] DEBUG: Querying model for action.
+2021-03-28 03:09:28,332 [maxagent_wrapper] DEBUG: Got result from callback#act in 0.002s.
+2021-03-28 03:09:28,430 [maxagent_wrapper] DEBUG: Calling act on callback.
+2021-03-28 03:09:28,431 [maxagent_code] DEBUG: Querying model for action.
+2021-03-28 03:09:28,433 [maxagent_wrapper] DEBUG: Got result from callback#act in 0.003s.
+2021-03-28 03:09:28,531 [maxagent_wrapper] DEBUG: Calling act on callback.
+2021-03-28 03:09:28,532 [maxagent_code] DEBUG: Querying model for action.
+2021-03-28 03:09:28,535 [maxagent_wrapper] DEBUG: Got result from callback#act in 0.004s.
+2021-03-28 03:09:28,632 [maxagent_wrapper] DEBUG: Calling act on callback.
+2021-03-28 03:09:28,633 [maxagent_code] DEBUG: Querying model for action.
+2021-03-28 03:09:28,636 [maxagent_wrapper] DEBUG: Got result from callback#act in 0.004s.
+2021-03-28 03:09:28,733 [maxagent_wrapper] DEBUG: Calling act on callback.
+2021-03-28 03:09:28,734 [maxagent_code] DEBUG: Querying model for action.
+2021-03-28 03:09:28,739 [maxagent_wrapper] DEBUG: Got result from callback#act in 0.006s.
+2021-03-28 03:09:28,835 [maxagent_wrapper] DEBUG: Calling act on callback.
+2021-03-28 03:09:28,836 [maxagent_code] DEBUG: Querying model for action.
+2021-03-28 03:09:28,839 [maxagent_wrapper] DEBUG: Got result from callback#act in 0.004s.
+2021-03-28 03:09:28,938 [maxagent_wrapper] DEBUG: Calling act on callback.
+2021-03-28 03:09:28,940 [maxagent_code] DEBUG: Querying model for action.
+2021-03-28 03:09:28,941 [maxagent_wrapper] DEBUG: Got result from callback#act in 0.003s.
+2021-03-28 03:09:29,040 [maxagent_wrapper] DEBUG: Calling act on callback.
+2021-03-28 03:09:29,040 [maxagent_code] DEBUG: Querying model for action.
+2021-03-28 03:09:29,042 [maxagent_wrapper] DEBUG: Got result from callback#act in 0.002s.
