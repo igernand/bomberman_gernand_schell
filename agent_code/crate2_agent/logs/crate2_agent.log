@@ -1,0 +1,199 @@
+2021-03-26 18:17:42,362 [crate2_agent_wrapper] DEBUG: Calling setup on callback.
+2021-03-26 18:17:42,363 [crate2_agent_code] INFO: Setting up crate2-table from scratch.
+2021-03-26 18:17:42,363 [crate2_agent_code] INFO: Setting up crate3-table from scratch.
+2021-03-26 18:17:42,363 [crate2_agent_wrapper] DEBUG: Got result from callback#setup in 0.001s.
+2021-03-26 18:17:42,466 [crate2_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-26 18:17:42,466 [crate2_agent_code] DEBUG: Querying model for action.
+2021-03-26 18:17:42,467 [crate2_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-26 18:17:42,567 [crate2_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-26 18:17:42,567 [crate2_agent_code] DEBUG: Querying model for action.
+2021-03-26 18:17:42,568 [crate2_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-26 18:17:42,668 [crate2_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-26 18:17:42,674 [crate2_agent_code] DEBUG: Querying model for action.
+2021-03-26 18:17:42,677 [crate2_agent_wrapper] DEBUG: Got result from callback#act in 0.003s.
+2021-03-26 18:17:42,770 [crate2_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-26 18:17:42,770 [crate2_agent_code] DEBUG: Querying model for action.
+2021-03-26 18:17:42,771 [crate2_agent_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-26 18:17:42,871 [crate2_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-26 18:17:42,871 [crate2_agent_code] DEBUG: Querying model for action.
+2021-03-26 18:17:42,872 [crate2_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-26 18:17:42,977 [crate2_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-26 18:17:42,977 [crate2_agent_code] DEBUG: Querying model for action.
+2021-03-26 18:17:42,977 [crate2_agent_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-26 18:17:43,078 [crate2_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-26 18:17:43,078 [crate2_agent_code] DEBUG: Querying model for action.
+2021-03-26 18:17:43,079 [crate2_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-26 18:17:43,180 [crate2_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-26 18:17:43,180 [crate2_agent_code] DEBUG: Querying model for action.
+2021-03-26 18:17:43,181 [crate2_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-26 18:17:43,281 [crate2_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-26 18:17:43,282 [crate2_agent_code] DEBUG: Querying model for action.
+2021-03-26 18:17:43,282 [crate2_agent_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-26 18:17:43,382 [crate2_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-26 18:17:43,383 [crate2_agent_code] DEBUG: Querying model for action.
+2021-03-26 18:17:43,383 [crate2_agent_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-26 18:17:43,482 [crate2_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-26 18:17:43,482 [crate2_agent_code] DEBUG: Querying model for action.
+2021-03-26 18:17:43,483 [crate2_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-26 18:17:43,583 [crate2_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-26 18:17:43,583 [crate2_agent_code] DEBUG: Querying model for action.
+2021-03-26 18:17:43,583 [crate2_agent_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-26 18:17:43,684 [crate2_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-26 18:17:43,684 [crate2_agent_code] DEBUG: Querying model for action.
+2021-03-26 18:17:43,684 [crate2_agent_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-26 18:17:43,786 [crate2_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-26 18:17:43,786 [crate2_agent_code] DEBUG: Querying model for action.
+2021-03-26 18:17:43,786 [crate2_agent_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-26 18:17:43,887 [crate2_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-26 18:17:43,887 [crate2_agent_code] DEBUG: Querying model for action.
+2021-03-26 18:17:43,887 [crate2_agent_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-26 18:17:43,988 [crate2_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-26 18:17:43,989 [crate2_agent_code] DEBUG: Querying model for action.
+2021-03-26 18:17:43,989 [crate2_agent_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-26 18:17:44,097 [crate2_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-26 18:17:44,097 [crate2_agent_code] DEBUG: Querying model for action.
+2021-03-26 18:17:44,097 [crate2_agent_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-26 18:17:44,198 [crate2_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-26 18:17:44,198 [crate2_agent_code] DEBUG: Querying model for action.
+2021-03-26 18:17:44,198 [crate2_agent_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-26 18:17:44,300 [crate2_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-26 18:17:44,300 [crate2_agent_code] DEBUG: Querying model for action.
+2021-03-26 18:17:44,301 [crate2_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-26 18:17:44,402 [crate2_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-26 18:17:44,402 [crate2_agent_code] DEBUG: Querying model for action.
+2021-03-26 18:17:44,402 [crate2_agent_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-26 18:17:44,502 [crate2_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-26 18:17:44,502 [crate2_agent_code] DEBUG: Querying model for action.
+2021-03-26 18:17:44,503 [crate2_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-26 18:17:44,604 [crate2_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-26 18:17:44,604 [crate2_agent_code] DEBUG: Querying model for action.
+2021-03-26 18:17:44,605 [crate2_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-26 18:17:44,705 [crate2_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-26 18:17:44,705 [crate2_agent_code] DEBUG: Querying model for action.
+2021-03-26 18:17:44,705 [crate2_agent_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-26 18:17:44,806 [crate2_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-26 18:17:44,807 [crate2_agent_code] DEBUG: Querying model for action.
+2021-03-26 18:17:44,807 [crate2_agent_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-26 18:17:44,914 [crate2_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-26 18:17:44,914 [crate2_agent_code] DEBUG: Querying model for action.
+2021-03-26 18:17:44,914 [crate2_agent_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-26 18:17:45,013 [crate2_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-26 18:17:45,013 [crate2_agent_code] DEBUG: Querying model for action.
+2021-03-26 18:17:45,015 [crate2_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-26 18:17:45,114 [crate2_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-26 18:17:45,114 [crate2_agent_code] DEBUG: Querying model for action.
+2021-03-26 18:17:45,115 [crate2_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-26 18:17:45,216 [crate2_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-26 18:17:45,216 [crate2_agent_code] DEBUG: Querying model for action.
+2021-03-26 18:17:45,216 [crate2_agent_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-26 18:17:45,317 [crate2_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-26 18:17:45,317 [crate2_agent_code] DEBUG: Querying model for action.
+2021-03-26 18:17:45,318 [crate2_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-26 18:17:45,419 [crate2_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-26 18:17:45,419 [crate2_agent_code] DEBUG: Querying model for action.
+2021-03-26 18:17:45,420 [crate2_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-26 18:17:45,521 [crate2_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-26 18:17:45,521 [crate2_agent_code] DEBUG: Querying model for action.
+2021-03-26 18:17:45,522 [crate2_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-26 18:17:45,622 [crate2_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-26 18:17:45,622 [crate2_agent_code] DEBUG: Querying model for action.
+2021-03-26 18:17:45,622 [crate2_agent_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-26 18:17:45,722 [crate2_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-26 18:17:45,722 [crate2_agent_code] DEBUG: Querying model for action.
+2021-03-26 18:17:45,723 [crate2_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-26 18:17:45,823 [crate2_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-26 18:17:45,823 [crate2_agent_code] DEBUG: Querying model for action.
+2021-03-26 18:17:45,823 [crate2_agent_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-26 18:17:45,924 [crate2_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-26 18:17:45,925 [crate2_agent_code] DEBUG: Querying model for action.
+2021-03-26 18:17:45,925 [crate2_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-26 18:17:46,025 [crate2_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-26 18:17:46,025 [crate2_agent_code] DEBUG: Querying model for action.
+2021-03-26 18:17:46,025 [crate2_agent_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-26 18:17:46,127 [crate2_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-26 18:17:46,127 [crate2_agent_code] DEBUG: Querying model for action.
+2021-03-26 18:17:46,127 [crate2_agent_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-26 18:17:46,228 [crate2_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-26 18:17:46,229 [crate2_agent_code] DEBUG: Querying model for action.
+2021-03-26 18:17:46,229 [crate2_agent_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-26 18:17:46,330 [crate2_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-26 18:17:46,331 [crate2_agent_code] DEBUG: Querying model for action.
+2021-03-26 18:17:46,331 [crate2_agent_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-26 18:17:46,431 [crate2_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-26 18:17:46,431 [crate2_agent_code] DEBUG: Querying model for action.
+2021-03-26 18:17:46,431 [crate2_agent_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-26 18:17:46,532 [crate2_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-26 18:17:46,532 [crate2_agent_code] DEBUG: Querying model for action.
+2021-03-26 18:17:46,532 [crate2_agent_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-26 18:17:46,633 [crate2_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-26 18:17:46,633 [crate2_agent_code] DEBUG: Querying model for action.
+2021-03-26 18:17:46,633 [crate2_agent_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-26 18:17:46,734 [crate2_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-26 18:17:46,735 [crate2_agent_code] DEBUG: Querying model for action.
+2021-03-26 18:17:46,735 [crate2_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-26 18:17:46,837 [crate2_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-26 18:17:46,838 [crate2_agent_code] DEBUG: Querying model for action.
+2021-03-26 18:17:46,838 [crate2_agent_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-26 18:17:46,938 [crate2_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-26 18:17:46,938 [crate2_agent_code] DEBUG: Querying model for action.
+2021-03-26 18:17:46,938 [crate2_agent_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-26 18:17:47,039 [crate2_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-26 18:17:47,040 [crate2_agent_code] DEBUG: Querying model for action.
+2021-03-26 18:17:47,040 [crate2_agent_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-26 18:17:47,141 [crate2_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-26 18:17:47,142 [crate2_agent_code] DEBUG: Querying model for action.
+2021-03-26 18:17:47,142 [crate2_agent_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-26 18:17:47,242 [crate2_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-26 18:17:47,242 [crate2_agent_code] DEBUG: Querying model for action.
+2021-03-26 18:17:47,243 [crate2_agent_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-26 18:17:47,342 [crate2_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-26 18:17:47,342 [crate2_agent_code] DEBUG: Querying model for action.
+2021-03-26 18:17:47,342 [crate2_agent_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-26 18:17:47,443 [crate2_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-26 18:17:47,443 [crate2_agent_code] DEBUG: Querying model for action.
+2021-03-26 18:17:47,444 [crate2_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-26 18:17:47,544 [crate2_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-26 18:17:47,545 [crate2_agent_code] DEBUG: Querying model for action.
+2021-03-26 18:17:47,545 [crate2_agent_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-26 18:17:47,646 [crate2_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-26 18:17:47,646 [crate2_agent_code] DEBUG: Querying model for action.
+2021-03-26 18:17:47,646 [crate2_agent_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-26 18:17:47,754 [crate2_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-26 18:17:47,755 [crate2_agent_code] DEBUG: Querying model for action.
+2021-03-26 18:17:47,755 [crate2_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-26 18:17:47,854 [crate2_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-26 18:17:47,854 [crate2_agent_code] DEBUG: Querying model for action.
+2021-03-26 18:17:47,854 [crate2_agent_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-26 18:17:47,955 [crate2_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-26 18:17:47,956 [crate2_agent_code] DEBUG: Querying model for action.
+2021-03-26 18:17:47,956 [crate2_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-26 18:17:48,057 [crate2_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-26 18:17:48,057 [crate2_agent_code] DEBUG: Querying model for action.
+2021-03-26 18:17:48,058 [crate2_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-26 18:17:48,159 [crate2_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-26 18:17:48,159 [crate2_agent_code] DEBUG: Querying model for action.
+2021-03-26 18:17:48,159 [crate2_agent_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-26 18:17:48,258 [crate2_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-26 18:17:48,259 [crate2_agent_code] DEBUG: Querying model for action.
+2021-03-26 18:17:48,259 [crate2_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-26 18:17:48,359 [crate2_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-26 18:17:48,359 [crate2_agent_code] DEBUG: Querying model for action.
+2021-03-26 18:17:48,359 [crate2_agent_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-26 18:17:48,461 [crate2_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-26 18:17:48,462 [crate2_agent_code] DEBUG: Querying model for action.
+2021-03-26 18:17:48,462 [crate2_agent_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-26 18:17:48,561 [crate2_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-26 18:17:48,561 [crate2_agent_code] DEBUG: Querying model for action.
+2021-03-26 18:17:48,561 [crate2_agent_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-26 18:17:48,663 [crate2_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-26 18:17:48,663 [crate2_agent_code] DEBUG: Querying model for action.
+2021-03-26 18:17:48,663 [crate2_agent_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-26 18:17:48,763 [crate2_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-26 18:17:48,763 [crate2_agent_code] DEBUG: Querying model for action.
+2021-03-26 18:17:48,764 [crate2_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-26 18:17:48,864 [crate2_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-26 18:17:48,865 [crate2_agent_code] DEBUG: Querying model for action.
+2021-03-26 18:17:48,865 [crate2_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-26 18:17:49,041 [crate2_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-26 18:17:49,042 [crate2_agent_code] DEBUG: Querying model for action.
+2021-03-26 18:17:49,042 [crate2_agent_wrapper] DEBUG: Got result from callback#act in 0.000s.
