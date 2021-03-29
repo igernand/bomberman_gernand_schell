@@ -1,0 +1,239 @@
+2021-03-29 12:37:34,777 [timer_agent_wrapper] DEBUG: Calling setup on callback.
+2021-03-29 12:37:34,786 [timer_agent_wrapper] DEBUG: Got result from callback#setup in 0.009s.
+2021-03-29 12:37:34,889 [timer_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-29 12:37:34,889 [timer_agent_code] DEBUG: Querying model for action.
+2021-03-29 12:37:34,890 [timer_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-29 12:37:34,990 [timer_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-29 12:37:34,990 [timer_agent_code] DEBUG: Querying model for action.
+2021-03-29 12:37:34,990 [timer_agent_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-29 12:37:35,091 [timer_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-29 12:37:35,091 [timer_agent_code] DEBUG: Querying model for action.
+2021-03-29 12:37:35,092 [timer_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-29 12:37:35,194 [timer_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-29 12:37:35,195 [timer_agent_code] DEBUG: Querying model for action.
+2021-03-29 12:37:35,195 [timer_agent_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-29 12:37:35,295 [timer_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-29 12:37:35,295 [timer_agent_code] DEBUG: Querying model for action.
+2021-03-29 12:37:35,295 [timer_agent_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-29 12:37:35,397 [timer_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-29 12:37:35,398 [timer_agent_code] DEBUG: Querying model for action.
+2021-03-29 12:37:35,398 [timer_agent_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-29 12:37:35,498 [timer_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-29 12:37:35,498 [timer_agent_code] DEBUG: Querying model for action.
+2021-03-29 12:37:35,499 [timer_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-29 12:37:35,608 [timer_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-29 12:37:35,608 [timer_agent_code] DEBUG: Querying model for action.
+2021-03-29 12:37:35,609 [timer_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-29 12:37:35,707 [timer_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-29 12:37:35,707 [timer_agent_code] DEBUG: Querying model for action.
+2021-03-29 12:37:35,707 [timer_agent_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-29 12:37:35,807 [timer_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-29 12:37:35,808 [timer_agent_code] DEBUG: Querying model for action.
+2021-03-29 12:37:35,808 [timer_agent_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-29 12:37:35,909 [timer_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-29 12:37:35,909 [timer_agent_code] DEBUG: Querying model for action.
+2021-03-29 12:37:35,909 [timer_agent_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-29 12:37:36,011 [timer_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-29 12:37:36,011 [timer_agent_code] DEBUG: Querying model for action.
+2021-03-29 12:37:36,011 [timer_agent_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-29 12:37:36,112 [timer_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-29 12:37:36,112 [timer_agent_code] DEBUG: Querying model for action.
+2021-03-29 12:37:36,113 [timer_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-29 12:37:36,214 [timer_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-29 12:37:36,214 [timer_agent_code] DEBUG: Querying model for action.
+2021-03-29 12:37:36,214 [timer_agent_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-29 12:37:36,316 [timer_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-29 12:37:36,316 [timer_agent_code] DEBUG: Querying model for action.
+2021-03-29 12:37:36,316 [timer_agent_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-29 12:37:36,417 [timer_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-29 12:37:36,417 [timer_agent_code] DEBUG: Querying model for action.
+2021-03-29 12:37:36,417 [timer_agent_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-29 12:37:36,519 [timer_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-29 12:37:36,519 [timer_agent_code] DEBUG: Querying model for action.
+2021-03-29 12:37:36,519 [timer_agent_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-29 12:37:36,620 [timer_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-29 12:37:36,620 [timer_agent_code] DEBUG: Querying model for action.
+2021-03-29 12:37:36,620 [timer_agent_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-29 12:37:36,722 [timer_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-29 12:37:36,722 [timer_agent_code] DEBUG: Querying model for action.
+2021-03-29 12:37:36,723 [timer_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-29 12:37:36,830 [timer_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-29 12:37:36,830 [timer_agent_code] DEBUG: Querying model for action.
+2021-03-29 12:37:36,830 [timer_agent_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-29 12:37:36,931 [timer_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-29 12:37:36,931 [timer_agent_code] DEBUG: Querying model for action.
+2021-03-29 12:37:36,931 [timer_agent_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-29 12:37:37,032 [timer_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-29 12:37:37,032 [timer_agent_code] DEBUG: Querying model for action.
+2021-03-29 12:37:37,033 [timer_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-29 12:37:37,150 [timer_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-29 12:37:37,150 [timer_agent_code] DEBUG: Querying model for action.
+2021-03-29 12:37:37,151 [timer_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-29 12:37:37,242 [timer_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-29 12:37:37,242 [timer_agent_code] DEBUG: Querying model for action.
+2021-03-29 12:37:37,242 [timer_agent_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-29 12:37:37,341 [timer_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-29 12:37:37,342 [timer_agent_code] DEBUG: Querying model for action.
+2021-03-29 12:37:37,342 [timer_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-29 12:37:37,443 [timer_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-29 12:37:37,443 [timer_agent_code] DEBUG: Querying model for action.
+2021-03-29 12:37:37,444 [timer_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-29 12:37:37,547 [timer_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-29 12:37:37,548 [timer_agent_code] DEBUG: Querying model for action.
+2021-03-29 12:37:37,548 [timer_agent_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-29 12:37:37,649 [timer_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-29 12:37:37,649 [timer_agent_code] DEBUG: Querying model for action.
+2021-03-29 12:37:37,649 [timer_agent_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-29 12:37:37,749 [timer_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-29 12:37:37,749 [timer_agent_code] DEBUG: Querying model for action.
+2021-03-29 12:37:37,750 [timer_agent_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-29 12:37:37,850 [timer_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-29 12:37:37,850 [timer_agent_code] DEBUG: Querying model for action.
+2021-03-29 12:37:37,856 [timer_agent_wrapper] DEBUG: Got result from callback#act in 0.006s.
+2021-03-29 12:37:37,952 [timer_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-29 12:37:37,952 [timer_agent_code] DEBUG: Querying model for action.
+2021-03-29 12:37:37,952 [timer_agent_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-29 12:37:38,052 [timer_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-29 12:37:38,053 [timer_agent_code] DEBUG: Querying model for action.
+2021-03-29 12:37:38,053 [timer_agent_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-29 12:37:38,155 [timer_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-29 12:37:38,155 [timer_agent_code] DEBUG: Querying model for action.
+2021-03-29 12:37:38,156 [timer_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-29 12:37:38,256 [timer_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-29 12:37:38,257 [timer_agent_code] DEBUG: Querying model for action.
+2021-03-29 12:37:38,257 [timer_agent_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-29 12:37:38,358 [timer_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-29 12:37:38,358 [timer_agent_code] DEBUG: Querying model for action.
+2021-03-29 12:37:38,358 [timer_agent_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-29 12:37:38,460 [timer_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-29 12:37:38,460 [timer_agent_code] DEBUG: Querying model for action.
+2021-03-29 12:37:38,461 [timer_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-29 12:37:38,563 [timer_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-29 12:37:38,564 [timer_agent_code] DEBUG: Querying model for action.
+2021-03-29 12:37:38,564 [timer_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-29 12:37:38,663 [timer_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-29 12:37:38,664 [timer_agent_code] DEBUG: Querying model for action.
+2021-03-29 12:37:38,664 [timer_agent_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-29 12:37:38,765 [timer_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-29 12:37:38,765 [timer_agent_code] DEBUG: Querying model for action.
+2021-03-29 12:37:38,765 [timer_agent_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-29 12:37:38,866 [timer_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-29 12:37:38,866 [timer_agent_code] DEBUG: Querying model for action.
+2021-03-29 12:37:38,866 [timer_agent_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-29 12:37:38,968 [timer_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-29 12:37:38,968 [timer_agent_code] DEBUG: Querying model for action.
+2021-03-29 12:37:38,969 [timer_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-29 12:37:39,069 [timer_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-29 12:37:39,069 [timer_agent_code] DEBUG: Querying model for action.
+2021-03-29 12:37:39,070 [timer_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-29 12:37:39,170 [timer_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-29 12:37:39,171 [timer_agent_code] DEBUG: Querying model for action.
+2021-03-29 12:37:39,171 [timer_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-29 12:37:39,271 [timer_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-29 12:37:39,271 [timer_agent_code] DEBUG: Querying model for action.
+2021-03-29 12:37:39,271 [timer_agent_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-29 12:37:39,371 [timer_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-29 12:37:39,371 [timer_agent_code] DEBUG: Querying model for action.
+2021-03-29 12:37:39,371 [timer_agent_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-29 12:37:39,473 [timer_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-29 12:37:39,474 [timer_agent_code] DEBUG: Querying model for action.
+2021-03-29 12:37:39,474 [timer_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-29 12:37:39,575 [timer_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-29 12:37:39,576 [timer_agent_code] DEBUG: Querying model for action.
+2021-03-29 12:37:39,576 [timer_agent_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-29 12:37:39,676 [timer_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-29 12:37:39,676 [timer_agent_code] DEBUG: Querying model for action.
+2021-03-29 12:37:39,677 [timer_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-29 12:37:39,786 [timer_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-29 12:37:39,786 [timer_agent_code] DEBUG: Querying model for action.
+2021-03-29 12:37:39,786 [timer_agent_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-29 12:37:39,885 [timer_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-29 12:37:39,885 [timer_agent_code] DEBUG: Querying model for action.
+2021-03-29 12:37:39,885 [timer_agent_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-29 12:37:39,986 [timer_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-29 12:37:39,987 [timer_agent_code] DEBUG: Querying model for action.
+2021-03-29 12:37:39,987 [timer_agent_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-29 12:37:40,101 [timer_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-29 12:37:40,101 [timer_agent_code] DEBUG: Querying model for action.
+2021-03-29 12:37:40,102 [timer_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-29 12:37:40,197 [timer_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-29 12:37:40,197 [timer_agent_code] DEBUG: Querying model for action.
+2021-03-29 12:37:40,197 [timer_agent_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-29 12:37:40,297 [timer_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-29 12:37:40,298 [timer_agent_code] DEBUG: Querying model for action.
+2021-03-29 12:37:40,298 [timer_agent_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-29 12:37:40,398 [timer_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-29 12:37:40,399 [timer_agent_code] DEBUG: Querying model for action.
+2021-03-29 12:37:40,399 [timer_agent_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-29 12:37:40,501 [timer_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-29 12:37:40,501 [timer_agent_code] DEBUG: Querying model for action.
+2021-03-29 12:37:40,501 [timer_agent_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-29 12:37:40,602 [timer_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-29 12:37:40,603 [timer_agent_code] DEBUG: Querying model for action.
+2021-03-29 12:37:40,603 [timer_agent_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-29 12:37:40,704 [timer_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-29 12:37:40,704 [timer_agent_code] DEBUG: Querying model for action.
+2021-03-29 12:37:40,704 [timer_agent_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-29 12:37:40,805 [timer_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-29 12:37:40,806 [timer_agent_code] DEBUG: Querying model for action.
+2021-03-29 12:37:40,806 [timer_agent_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-29 12:37:40,907 [timer_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-29 12:37:40,907 [timer_agent_code] DEBUG: Querying model for action.
+2021-03-29 12:37:40,908 [timer_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-29 12:37:41,015 [timer_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-29 12:37:41,015 [timer_agent_code] DEBUG: Querying model for action.
+2021-03-29 12:37:41,016 [timer_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-29 12:37:41,115 [timer_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-29 12:37:41,115 [timer_agent_code] DEBUG: Querying model for action.
+2021-03-29 12:37:41,116 [timer_agent_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-29 12:37:41,217 [timer_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-29 12:37:41,217 [timer_agent_code] DEBUG: Querying model for action.
+2021-03-29 12:37:41,217 [timer_agent_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-29 12:37:41,317 [timer_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-29 12:37:41,317 [timer_agent_code] DEBUG: Querying model for action.
+2021-03-29 12:37:41,318 [timer_agent_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-29 12:37:41,431 [timer_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-29 12:37:41,432 [timer_agent_code] DEBUG: Querying model for action.
+2021-03-29 12:37:41,433 [timer_agent_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-29 12:37:41,526 [timer_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-29 12:37:41,526 [timer_agent_code] DEBUG: Querying model for action.
+2021-03-29 12:37:41,526 [timer_agent_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-29 12:37:41,628 [timer_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-29 12:37:41,628 [timer_agent_code] DEBUG: Querying model for action.
+2021-03-29 12:37:41,628 [timer_agent_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-29 12:37:41,728 [timer_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-29 12:37:41,729 [timer_agent_code] DEBUG: Querying model for action.
+2021-03-29 12:37:41,729 [timer_agent_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-29 12:37:41,832 [timer_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-29 12:37:41,832 [timer_agent_code] DEBUG: Querying model for action.
+2021-03-29 12:37:41,833 [timer_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-29 12:37:41,932 [timer_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-29 12:37:41,932 [timer_agent_code] DEBUG: Querying model for action.
+2021-03-29 12:37:41,932 [timer_agent_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-29 12:37:42,033 [timer_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-29 12:37:42,033 [timer_agent_code] DEBUG: Querying model for action.
+2021-03-29 12:37:42,033 [timer_agent_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-29 12:37:42,134 [timer_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-29 12:37:42,134 [timer_agent_code] DEBUG: Querying model for action.
+2021-03-29 12:37:42,135 [timer_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-29 12:37:42,237 [timer_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-29 12:37:42,237 [timer_agent_code] DEBUG: Querying model for action.
+2021-03-29 12:37:42,238 [timer_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-29 12:37:42,338 [timer_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-29 12:37:42,338 [timer_agent_code] DEBUG: Querying model for action.
+2021-03-29 12:37:42,339 [timer_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-29 12:37:42,439 [timer_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-29 12:37:42,439 [timer_agent_code] DEBUG: Querying model for action.
+2021-03-29 12:37:42,440 [timer_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-29 12:37:42,539 [timer_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-29 12:37:42,539 [timer_agent_code] DEBUG: Querying model for action.
+2021-03-29 12:37:42,540 [timer_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-29 12:37:42,641 [timer_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-29 12:37:42,641 [timer_agent_code] DEBUG: Querying model for action.
+2021-03-29 12:37:42,642 [timer_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-29 12:37:42,743 [timer_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-29 12:37:42,743 [timer_agent_code] DEBUG: Querying model for action.
+2021-03-29 12:37:42,743 [timer_agent_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-29 12:37:42,863 [timer_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-29 12:37:42,864 [timer_agent_code] DEBUG: Querying model for action.
+2021-03-29 12:37:42,865 [timer_agent_wrapper] DEBUG: Got result from callback#act in 0.000s.
