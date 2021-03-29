@@ -1,0 +1,5 @@
+2021-03-20 22:44:58,900 [master_agent_0_wrapper] DEBUG: Calling setup on callback.
+2021-03-20 22:44:58,901 [master_agent_0_code] INFO: Loading coin1-table from saved state.
+2021-03-20 22:44:58,901 [master_agent_0_code] INFO: Loading coin2-table from saved state.
+2021-03-20 22:44:58,902 [master_agent_0_code] INFO: Loading coin3-table from saved state.
+2021-03-20 22:44:58,902 [master_agent_0_wrapper] DEBUG: Got result from callback#setup in 0.002s.
