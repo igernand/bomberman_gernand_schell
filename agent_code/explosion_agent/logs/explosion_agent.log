@@ -1,0 +1,56 @@
+2021-03-28 11:38:37,803 [explosion_agent_wrapper] DEBUG: Calling setup on callback.
+2021-03-28 11:38:37,804 [explosion_agent_wrapper] DEBUG: Got result from callback#setup in 0.000s.
+2021-03-28 11:38:37,804 [explosion_agent_wrapper] DEBUG: Calling setup_training on callback.
+2021-03-28 11:38:37,805 [explosion_agent_wrapper] DEBUG: Got result from callback#setup_training in 0.000s.
+2021-03-28 11:38:37,908 [explosion_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-28 11:38:37,908 [explosion_agent_code] DEBUG: Encountered game event(s)  in step 1
+2021-03-28 11:38:37,909 [explosion_agent_code] INFO: Awarded 0 for events 
+2021-03-28 11:38:37,909 [explosion_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-28 11:38:37,910 [explosion_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-28 11:38:37,910 [explosion_agent_code] DEBUG: Choosing action purely at random.
+2021-03-28 11:38:37,911 [explosion_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-28 11:38:38,008 [explosion_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-28 11:38:38,008 [explosion_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 2
+2021-03-28 11:38:38,009 [explosion_agent_code] INFO: Awarded -1000 for events INVALID_ACTION
+2021-03-28 11:38:38,009 [explosion_agent_code] INFO: Awarded -1000 for events INVALID_ACTION
+2021-03-28 11:38:38,009 [explosion_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-28 11:38:38,010 [explosion_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-28 11:38:38,010 [explosion_agent_code] DEBUG: Choosing action purely at random.
+2021-03-28 11:38:38,010 [explosion_agent_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-28 11:38:38,109 [explosion_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-28 11:38:38,109 [explosion_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 3
+2021-03-28 11:38:38,110 [explosion_agent_code] INFO: Awarded -1000 for events INVALID_ACTION
+2021-03-28 11:38:38,110 [explosion_agent_code] INFO: Awarded -1000 for events INVALID_ACTION
+2021-03-28 11:38:38,110 [explosion_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-28 11:38:38,111 [explosion_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-28 11:38:38,111 [explosion_agent_code] DEBUG: Choosing action purely at random.
+2021-03-28 11:38:38,111 [explosion_agent_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-28 11:38:38,223 [explosion_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-28 11:38:38,224 [explosion_agent_code] DEBUG: Encountered game event(s) 'MOVED_DOWN' in step 4
+2021-03-28 11:38:38,224 [explosion_agent_code] INFO: Awarded -1 for events MOVED_DOWN
+2021-03-28 11:38:38,225 [explosion_agent_code] INFO: Awarded -1 for events MOVED_DOWN
+2021-03-28 11:38:38,225 [explosion_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.002s.
+2021-03-28 11:38:38,226 [explosion_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-28 11:38:38,226 [explosion_agent_code] DEBUG: Choosing action purely at random.
+2021-03-28 11:38:38,226 [explosion_agent_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-28 11:38:38,318 [explosion_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-28 11:38:38,318 [explosion_agent_code] DEBUG: Encountered game event(s) 'MOVED_LEFT' in step 5
+2021-03-28 11:38:38,318 [explosion_agent_code] INFO: Awarded -1 for events MOVED_LEFT
+2021-03-28 11:38:38,319 [explosion_agent_code] INFO: Awarded -1 for events MOVED_LEFT
+2021-03-28 11:38:38,319 [explosion_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-28 11:38:38,320 [explosion_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-28 11:38:38,320 [explosion_agent_code] DEBUG: Choosing action purely at random.
+2021-03-28 11:38:38,321 [explosion_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-28 11:38:38,420 [explosion_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-28 11:38:38,420 [explosion_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 6
+2021-03-28 11:38:38,420 [explosion_agent_code] INFO: Awarded -1000 for events INVALID_ACTION
+2021-03-28 11:38:38,421 [explosion_agent_code] INFO: Awarded -1000 for events INVALID_ACTION
+2021-03-28 11:38:38,421 [explosion_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-28 11:38:38,422 [explosion_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-28 11:38:38,423 [explosion_agent_code] DEBUG: Choosing action purely at random.
+2021-03-28 11:38:38,424 [explosion_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-28 11:38:38,427 [explosion_agent_wrapper] DEBUG: Calling end_of_round on callback.
+2021-03-28 11:38:38,428 [explosion_agent_code] DEBUG: Encountered event(s) 'BOMB_DROPPED', 'SURVIVED_ROUND' in final step
+2021-03-28 11:38:38,428 [explosion_agent_code] INFO: Awarded -3 for events BOMB_DROPPED, SURVIVED_ROUND
+2021-03-28 11:38:38,429 [explosion_agent_code] INFO: Awarded -3 for events BOMB_DROPPED, SURVIVED_ROUND
+2021-03-28 11:38:38,437 [explosion_agent_wrapper] DEBUG: Got result from callback#end_of_round in 0.009s.
